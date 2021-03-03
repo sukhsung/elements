@@ -1,5 +1,7 @@
 # Elements
 
+Useful chemical elemental data collected in one place.
+
 - EELS Data collected from eels.info
 - EDS Data collected from xdb.lbl.gov
 

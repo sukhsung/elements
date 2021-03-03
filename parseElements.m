@@ -23,7 +23,7 @@ function elements = parseElements( inputVal )
                 inputVal = split(inputVal,{' ',','}) ;
             end
             Zs = t.Z;
-            names = t.Element;
+            names = t.Symbol;
             [Lia,Locb] = ismember( inputVal, names );
             % Check if all elements are valid
             if ~all(Lia)

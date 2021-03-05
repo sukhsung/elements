@@ -30,7 +30,7 @@ function elements = parseElements( varargin )
     end
     
     
-    if nargin == 1
+    if nargin == 1 || 2
         if isnumeric( inputVal )
             elements = elements( inputVal );
         elseif iscell( inputVal ) || ischar( inputVal )

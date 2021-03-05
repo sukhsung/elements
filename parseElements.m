@@ -8,7 +8,7 @@ function elements = parseElements( varargin )
         inPutVal = varargin{1};
     elseif nargin == 2
         csvPath = varargin{2};
-        inputVal = varargin{2};
+        inputVal = varargin{1};
     end
 
 

@@ -35,7 +35,8 @@ function elements = parseElements( varargin )
             elements = elements( inputVal );
         elseif iscell( inputVal ) || ischar( inputVal )
             if ischar( inputVal )
-                inputVal = split(inputVal,{' ',','}) ;
+                inputVal = split(inputVal,{' ,',', '}) ;
+                inputVal = split(inputVal,{',',' '}) ;
             end
             Zs = t.Z;
             names = t.Symbol;

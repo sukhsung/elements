@@ -5572,3 +5572,302 @@
                 0.4182467,
                 12.52018,
                 0.04815401
+            ],
+            "c": [
+                0.4152996,
+                2.917613,
+                0.1514749
+            ],
+            "d": [
+                0.4249139,
+                19.08997,
+                0.08815689
+            ]
+        }
+    },
+    {
+        "Z": 99,
+        "Symbol": "Es",
+        "EDS": {
+            "Ka1": null,
+            "Ka2": null,
+            "Kb1": null,
+            "La1": null,
+            "La2": null,
+            "Lb1": null,
+            "Lb2": null,
+            "Lg1": null,
+            "Ma1": null
+        },
+        "EELS": {
+            "K": null,
+            "L1": null,
+            "L2": null,
+            "L3": null,
+            "M1": null,
+            "M2": null,
+            "M3": null,
+            "M4": null,
+            "M5": null,
+            "N1": null,
+            "N23": null,
+            "N4": null,
+            "N5": null,
+            "N6": null,
+            "N7": null,
+            "O1": null,
+            "O23": null,
+            "O45": null
+        },
+        "fparams": {
+            "a": [
+                4.097806,
+                5.100794,
+                0.1746173
+            ],
+            "b": [
+                0.4460211,
+                13.17686,
+                0.05027428
+            ],
+            "c": [
+                2.767747,
+                0.1444966,
+                0.4027721
+            ],
+            "d": [
+                18.48154,
+                0.08462326,
+                0.4176401
+            ]
+        }
+    },
+    {
+        "Z": 100,
+        "Symbol": "Fm",
+        "EDS": {
+            "Ka1": null,
+            "Ka2": null,
+            "Kb1": null,
+            "La1": null,
+            "La2": null,
+            "Lb1": null,
+            "Lb2": null,
+            "Lg1": null,
+            "Ma1": null
+        },
+        "EELS": {
+            "K": null,
+            "L1": null,
+            "L2": null,
+            "L3": null,
+            "M1": null,
+            "M2": null,
+            "M3": null,
+            "M4": null,
+            "M5": null,
+            "N1": null,
+            "N23": null,
+            "N4": null,
+            "N5": null,
+            "N6": null,
+            "N7": null,
+            "O1": null,
+            "O23": null,
+            "O45": null
+        },
+        "fparams": {
+            "a": [
+                4.249348,
+                5.035566,
+                0.1889206
+            ],
+            "b": [
+                0.4752639,
+                13.85708,
+                0.05269752
+            ],
+            "c": [
+                0.3943561,
+                2.612131,
+                0.1380019
+            ],
+            "d": [
+                0.4111938,
+                17.85379,
+                0.08127744
+            ]
+        }
+    },
+    {
+        "Z": 101,
+        "Symbol": "Md",
+        "EDS": {
+            "Ka1": null,
+            "Ka2": null,
+            "Kb1": null,
+            "La1": null,
+            "La2": null,
+            "Lb1": null,
+            "Lb2": null,
+            "Lg1": null,
+            "Ma1": null
+        },
+        "EELS": {
+            "K": null,
+            "L1": null,
+            "L2": null,
+            "L3": null,
+            "M1": null,
+            "M2": null,
+            "M3": null,
+            "M4": null,
+            "M5": null,
+            "N1": null,
+            "N23": null,
+            "N4": null,
+            "N5": null,
+            "N6": null,
+            "N7": null,
+            "O1": null,
+            "O23": null,
+            "O45": null
+        },
+        "fparams": {
+            "a": [
+                0.2009429,
+                4.401199,
+                4.972501
+            ],
+            "b": [
+                0.05483665,
+                0.5042484,
+                14.57214
+            ],
+            "c": [
+                2.475306,
+                0.3868832,
+                0.1319361
+            ],
+            "d": [
+                17.29783,
+                0.4050439,
+                0.07808211
+            ]
+        }
+    },
+    {
+        "Z": 102,
+        "Symbol": "No",
+        "EDS": {
+            "Ka1": null,
+            "Ka2": null,
+            "Kb1": null,
+            "La1": null,
+            "La2": null,
+            "Lb1": null,
+            "Lb2": null,
+            "Lg1": null,
+            "Ma1": null
+        },
+        "EELS": {
+            "K": null,
+            "L1": null,
+            "L2": null,
+            "L3": null,
+            "M1": null,
+            "M2": null,
+            "M3": null,
+            "M4": null,
+            "M5": null,
+            "N1": null,
+            "N23": null,
+            "N4": null,
+            "N5": null,
+            "N6": null,
+            "N7": null,
+            "O1": null,
+            "O23": null,
+            "O45": null
+        },
+        "fparams": {
+            "a": [
+                0.2160529,
+                4.911068,
+                4.548629
+            ],
+            "b": [
+                0.05835841,
+                15.32642,
+                0.5344348
+            ],
+            "c": [
+                2.361142,
+                0.1262773,
+                0.3813645
+            ],
+            "d": [
+                16.81648,
+                0.07503046,
+                0.3993059
+            ]
+        }
+    },
+    {
+        "Z": 103,
+        "Symbol": "Lr",
+        "EDS": {
+            "Ka1": null,
+            "Ka2": null,
+            "Kb1": null,
+            "La1": null,
+            "La2": null,
+            "Lb1": null,
+            "Lb2": null,
+            "Lg1": null,
+            "Ma1": null
+        },
+        "EELS": {
+            "K": null,
+            "L1": null,
+            "L2": null,
+            "L3": null,
+            "M1": null,
+            "M2": null,
+            "M3": null,
+            "M4": null,
+            "M5": null,
+            "N1": null,
+            "N23": null,
+            "N4": null,
+            "N5": null,
+            "N6": null,
+            "N7": null,
+            "O1": null,
+            "O23": null,
+            "O45": null
+        },
+        "fparams": {
+            "a": [
+                4.86738,
+                0.3199744,
+                4.588724
+            ],
+            "b": [
+                16.03205,
+                0.06708711,
+                0.5770394
+            ],
+            "c": [
+                0.1214824,
+                2.316399,
+                0.3792581
+            ],
+            "d": [
+                0.07222759,
+                14.12797,
+                0.3899735
+            ]
+        }
+    }
+]

@@ -7,11 +7,17 @@ function elements = parseElements( inputVal )
     
     elements = table2struct(t(:,1:2)); 
     eds = table2struct(t(:,3:11));
-    eels = table2struct(t(:,12:end));
+    eels = table2struct(t(:,12:29));
+    fparams = table2struct(t(:,30:41));
+    
     
     for ind = 1:length(elements)
         elements(ind).EDS = eds(ind);
-       elements(ind).EELS = eels(ind);
+        elements(ind).EELS = eels(ind);
+        elements(ind).fparams.a = [fparams(ind).a1,fparams(ind).a2,fparams(ind).a3];
+        elements(ind).fparams.b = [fparams(ind).b1,fparams(ind).b2,fparams(ind).b3];
+        elements(ind).fparams.c = [fparams(ind).c1,fparams(ind).c2,fparams(ind).c3];
+        elements(ind).fparams.d = [fparams(ind).d1,fparams(ind).d2,fparams(ind).d3];
     end
     
     

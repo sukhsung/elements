@@ -1,8 +1,17 @@
-function elements = parseElements( inputVal )
+function elements = parseElements( varargin )
 % No input: Returns entire elemental data from z=1-95
 % If input is a number or array of numbers, input selects elements by Z
 % If input is comma or space delimited or cell array of strings, input selects elements by name
 % e.g., 'Ca,Sr', 'Ca Sr', {'Ca', 'Sr'}
+    if nargin == 1
+        csvPath = './elements.csv';
+        inPutVal = varargin{1};
+    elseif nargin == 2
+        csvPath = varargin{2};
+        inputVal = varargin{2};
+    end
+
+
     t = readtable('elements.csv');
     
     elements = table2struct(t(:,1:2)); 

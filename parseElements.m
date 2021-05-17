@@ -5,7 +5,7 @@ function elements = parseElements( varargin )
 % e.g., 'Ca,Sr', 'Ca Sr', {'Ca', 'Sr'}
     if nargin == 1
         csvPath = './elements.csv';
-        inPutVal = varargin{1};
+        inputVal = varargin{1};
     elseif nargin == 2
         csvPath = varargin{2};
         inputVal = varargin{1};
